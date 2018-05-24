@@ -2,6 +2,8 @@
 
 The following strings require translation into German:
 
+## Website Text
+
 * Search for a character to track...
 * Name
 * Your tracked characters
@@ -211,3 +213,71 @@ The following strings require translation into German:
 * Tracked
 * Track
 * Add this character to your tracked characters list.
+
+## Title Obtain Methods
+
+* Unlock the __achievement__ achievement.
+
+## Minion Obtain Methods
+
+* Purchase for {img2} {i0} {i1} from {3} {4} in {img5} {6} (x: {7}, y: {8}).
+* Purchase from {0} during the {i1} event.
+* {i0} {1} and register the promotional code on or before {2}.
+* Register or digitally upgrade to the {i0} of {i1} on the {2}.
+* Unlock the __achievement__ achievement, then speak to {0} at {1} in {img2} {3} (x: {4}, y: {5}).
+* Randomly awarded from treasure chests in {img0} {i1} from {2} onwards.
+* Randomly awarded from treasure chests in {img0} {i1}.
+* Randomly awarded from a treasure chest in the level {0} duty {img1} '{i2}' (x: {3}, y: {4}).
+* Randomly awarded from a treasure chest in level {0} duty {img1} '{i2}' (final chest).
+* Randomly awarded from a treasure chest in level {0} raid {img1} '{i2}' (final chest).
+* Randomly awarded from a treasure chest in level {0} trial {img1} '{i2}' (final chest).
+* Randomly awarded after winning level {0} PvP match {img1} '{i2}'.
+* Complete the level {0} {i1} quest {img3} '{i2}'.
+* Achieve gold rating in the level {0} FATE {img1} '{i2}' in {img3} {4} (x: {5}, y: {6}).
+* Randomly awarded after achieving gold rating in the level {0} {img1} {2} FATE {img3} '{i4}'.
+* Achieve gold rating in the level {0} FATE {img1} '{i2}' in {img3} {4}.
+* Purchase for {img2} {i0} {i1} from {3} in {img4} {5} (x: {6}, y: {7}) after completing the level {8} FATE {img9} '{i10}' (x: {11}, y: {12}).
+* Randomly awarded from a {i0}, after obtaining a {1} within {img2} {3}.
+* Complete the level {0} {1} quest {img2} '{i3}' from {4} in {img5} {6} (x: {7}, y: {8}).
+* Complete the level {0} {1} main scenario quest {img2} '{i3}' from {4} in {img5} {6} (x: {7}, y: {8}).
+* Randomly awarded from the treasure chest after completing a level {0} (solo) {img1} {i2}.
+* Randomly awarded from the treasure chest after completing a level {0} (full party) {img1} {i2}.
+* Crafted from a level {0} {i1} recipe{2} with {3}.
+* Crafted from a level {0} {i1} recipe{2}.
+* Gathered by a {i0} at {1} in {img2} {i3} (x: {4}, y: {5}) using {6} as bait (level {7}).
+* Desynthesise {i0} as a {i1}, gathered by a {i2} at {3} in {img4} {i5} (x: {6}, y: {7}) mooching {8} (level {9}).
+* Double-mooched by a {i0} at {1} in {img2} {i3} (x: {4}, y: {5}) using {6} as bait (level {7}) to catch a {8}, mooched to catch a {9}.
+* Spearfished from a {0} node by a {i1} using a {2} at {3} in {img4} {i5} (x: {6}, y: {7}) after catching {8} {9} (level {10}) with a {11}.
+* Purchase for {i0} {i1} {img2} from {3} at {4} in {img5} {6} (x: {7}, y: {8}).
+* Received as mail from a {i0} for subscribing for {1} days.
+* Gathered by a level {0} {i1} at an unspoiled node{2} in {img3} {4} (x: {5}, y: {6}) at {7} (slot {8}).
+* Purchase directly from the {i0}.
+* Achieve {0} reputation with the {i1} Beast Tribe, then purchase for {img4} {i2} {i3} from {5} {6} in {img7} {8} (x: {9}, y: {10}).
+* Purchase {i0} on the {i1} and register the promotional code on or before {2}.
+* Purchase {i0} on the {i1} and register the promotional code.
+* Randomly awarded from the {1} level {0} {img2} {i3} {i4} retainer venture.
+* Randomly awarded from a {img0} {i1} retainer venture.
+* Cultivate {img0} {i1}.
+* Randomly awarded when completing {0} lines of {img1} {i2}.
+* Attend the {y0} fan festival in {1}.
+* Purchase the online live stream of the {y0} fan festival in {1}.
+* Randomly obtained from Free Company {i0} Subaquatic Voyages.
+
+## Mount Obtain Methods
+ 
+* Unlock the __achievement__ achievement, then speak to {0} at {1} in {img2} {3} (x: {4}, y: {5}).
+* Achieve {0} reputation with the {i1} Beast Tribe, then purchase for {img4} {i2} {i3} from {5} {6} in {img7} {8} (x: {9}, y: {10}).
+* Register or digitally upgrade to the {i0} of {i1} on the {2}.
+* Complete the level {0} {1} main scenario quest {img2} '{i3}' from {4} in {img5} {6} (x: {7}, y: {8}).
+* Complete the level {0} {1} quest {img2} '{i3}' from {4} in {img5} {6} (x: {7}, y: {8}).
+* Complete the level {0} {1} quest {img2} '{i3}' from {4} in {img5} {6} (x: {7}, y: {8}) after obtaining __mounts__.
+* Given as a gift upon reaching level {0} by {1} in {img2} {3} (x: {4}, y: {5})
+* Given at the launch of A Realm Reborn to any players who had at least 90 cumulative days of subscription at any point during the final 9 months of Legacy.
+* Purchase for {i0} {i1} {img2} from {3} at {4} in {img5} {6} (x: {7}, y: {8}).
+* Randomly awarded from a treasure chest in level {0} raid {img1} '{i2}' (final chest).
+* Randomly awarded from a treasure chest in level {0} trial {img1} '{i2}' (final chest).
+* Received as mail from a {i0} for subscribing for {1} days.
+* Purchase directly from the {i0}.
+* Purchase for {img2} {i0} {i1} from {3} {4} in {img5} {6} (x: {7}, y: {8}).
+* Rewarded for having a friend subscribe for 90 days during the {i0}.
+* Purchase for {img2} {i0} {i1}, awarded from the {i9}, from {3} {4} in {img5} {6} (x: {7}, y: {8}).
