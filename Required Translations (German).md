@@ -1,6 +1,6 @@
 # Required Translations
 
-The following strings require translation into French:
+The following strings require translation into German:
 
 * Search for a character to track...
 * Name
