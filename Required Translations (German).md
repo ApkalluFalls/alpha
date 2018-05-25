@@ -10,6 +10,6 @@ The following strings require translation into German:
 * This {0} has no {1} information.
 * How to get the {0} {1}
 
-## Minion Obtain Methods
+## Game Content
 
-* Purchase for {img2} {i0} {i1} from {3} in {img4} {5} (x: {6}, y: {7}) after completing the level {8} FATE {img9} '{i10}' (x: {11}, y: {12}).
+* Deep-sea Site 3

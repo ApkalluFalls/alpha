@@ -17,7 +17,6 @@ The following strings require translation into Japanese:
 * Note that this only applies to the {0} reward which is limited to the first 100 supporters.
 * Thank you
 * World
-* {0} days ago
 * Says
 * Quote
 * quote
@@ -50,7 +49,6 @@ The following strings require translation into Japanese:
 * Minions
 * minions
 * title
-* Titles
 * titles
 * Title
 * Male title
@@ -80,9 +78,6 @@ The following strings require translation into Japanese:
 * of
 * There are {0} {1} Apkallu Falls does not know how to obtain yet...
 * {0} days ago
-* was {0}\'s first {1}
-* is {0}\'s latest {1}
-* unlocked
 * Seasonal Event
 * Seasonal Events
 * Legacy
@@ -108,10 +103,6 @@ The following strings require translation into Japanese:
 * Stats
 * Levequests
 * levequests
-* Achievement Item Rewards
-* The most achievements {0} unlocked on a single day was {i1} on {2}.
-* Combined Levels
-* Unique Levequests
 * Server
 * Search
 * Searching...
@@ -206,11 +197,6 @@ The following strings require translation into Japanese:
 * Obtained
 * Unobtained
 * Force Update
-* Sync with XIVDB
-* Sometimes a character\'s data can get a little out of sync. Click on the {0} button below to re-sync this data.
-* A sync request has been sent to XIVDB
-* Please come back in 5-10 minutes when this character\'s data will be up to date.
-* {0}\'s data was last updated {1}.
 * You are already tracking this character.
 * Tracked
 * Track
