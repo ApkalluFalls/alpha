@@ -202,6 +202,10 @@ The following strings require translation into Japanese:
 * Track
 * Add this character to your tracked characters list.
 
+## Game Content
+
+* Deep-sea Site 3
+
 ## Title Obtain Methods
 
 * Unlock the __achievement__ achievement.

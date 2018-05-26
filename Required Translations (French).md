@@ -6,4 +6,8 @@ The following strings require translation into French:
 
 ## Game Content
 
+* Small Gig
+* Medium Gig
+* Large Gig
+* Quick Exploration
 * Deep-sea Site 3
