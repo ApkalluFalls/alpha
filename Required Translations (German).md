@@ -10,4 +10,4 @@ The following strings require translation into German:
 
 ## Mount Obtain Methods
 
-* Randomly awarded from an {i0} after completing FATEs within {img1} {2}.
+* Randomly awarded from an {i0}, obtained after completing FATEs within {img1} {2}.
