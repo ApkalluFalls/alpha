@@ -214,7 +214,12 @@ The following strings require translation into Japanese:
 
 ## Game Content
 
+* Large Gig
+* Medium Gig
+* Small Gig
+* Quick Exploration
 * Deep-sea Site 3
+* Bloodsworn
 
 ## Title Obtain Methods
 
@@ -283,3 +288,4 @@ The following strings require translation into Japanese:
 * Purchase for {img2} {i0} {i1} from {3} {4} in {img5} {6} (x: {7}, y: {8}).
 * Rewarded for having a friend subscribe for 90 days during the {i0}.
 * Purchase for {img2} {i0} {i1}, awarded from the {i9}, from {3} {4} in {img5} {6} (x: {7}, y: {8}).
+* Randomly awarded from an {i0} after completing FATEs within {img1} {2}.
