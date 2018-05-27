@@ -6,8 +6,4 @@ The following strings require translation into French:
 
 ## Game Content
 
-* Bloodsworn
-
-## Mount Obtain Methods
-
-* Randomly awarded from an {i0}, obtained after completing FATEs within {img1} {2}.
+* 
