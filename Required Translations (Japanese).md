@@ -211,6 +211,7 @@ The following strings require translation into Japanese:
 * Reset
 * Select the character you wish to add from the list below.
 * Success! {0}\'s data will now be synced.
+* Progress towards Patreon goal {0}.
 
 ## Game Content
 

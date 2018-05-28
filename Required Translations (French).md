@@ -4,6 +4,6 @@ Please refer to [Required Translations](https://github.com/ApkalluFalls/alpha/bl
 
 The following strings require translation into French:
 
-## Game Content
+## Website Text
 
-* 
+* Progress towards Patreon goal {0}.
