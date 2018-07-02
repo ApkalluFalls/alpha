@@ -24,6 +24,7 @@ The following strings require translation into German:
 * I\'ve forgotten my password'
 * Save changes
 * You have unsaved changes. Click here to save them.
+* Unsaved changes
 * This value has changed since your data was last saved.
 * Content unlocked by default cannot be changed.
 * Click to mark as unobtained.
