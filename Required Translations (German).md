@@ -72,3 +72,8 @@ The following strings require translation into German:
 * This character is blacklisted by XIVAPI.
 * No character exists with this ID.
 * Unhandled XIVAPI response state \"{0}\". This is a bug, please let Tequila know about it on Discord.
+* Tradeable
+* {0} can be purchased from the in-game market board.
+* Why am I seeing this?
+* With the version 2.1 upgrade of Apkallu Falls, XIVDB support has been completely dropped and now we\'re using XIVAPI instead.
+* XIVAPI has not seen this character before, so needs to fetch its data from the Lodestone. Once done, you shouldn\'t ever see this message again for this character.
